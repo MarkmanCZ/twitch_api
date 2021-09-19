@@ -1,0 +1,1 @@
+Rename the .env.example file to just .env and fill in the ? with your clientd_id and client_secret and your user_login=?
