@@ -1,4 +1,6 @@
 *.env
 *.vscode
+package.json
 
 !.env.example
+!example_packaje.json

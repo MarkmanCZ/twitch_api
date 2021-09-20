@@ -1,0 +1,12 @@
+{
+    "name": "<name of your bott>",
+    "version": "<version of the bot>",
+    "description": "<he description>",
+    "main": "<main file for startupt>",
+      "scripts": {
+      "start": "node <the name of the main file>"
+    },
+    "author": "<your name>",
+    "license": "ISC"
+  }
+  

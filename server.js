@@ -18,7 +18,7 @@ const getToken = (url, callback) => {
         if(err) {
             return console.log(err)
         }
-        console.log("Statis: ${res.statusCOde}");
+        console.log("Status: ${res.statusCode}");
         console.log(body);
 
         callback(res);
