@@ -1,6 +1,7 @@
 *.env
 *.vscode
 package.json
+node_modules
 
 !.env.example
 !example_packaje.json
